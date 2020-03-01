@@ -1,0 +1,24 @@
+{
+  "name": "md2k.de-gridsome",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/plugin-google-analytics": "^0.1.0",
+    "@gridsome/source-filesystem": "^0.6.2",
+    "@gridsome/transformer-remark": "^0.5.0",
+    "gridsome": "^0.7.13",
+    "vue-matomo": "^3.13.0-4"
+  },
+  "devDependencies": {
+    "bulma": "^0.8.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-gridsome": "^1.4.0",
+    "node-sass": "^4.13.1",
+    "sass-loader": "^8.0.2",
+    "vue-eslint-parser": "^7.0.0"
+  }
+}
