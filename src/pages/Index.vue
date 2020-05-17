@@ -26,11 +26,11 @@ import Pagination from '@/components/Pagination.vue'
 export default {
   components: {
     PostCard,
-    Pagination
+    Pagination,
   },
   metaInfo: {
-    title: 'Home'
-  }
+    title: 'Home',
+  },
 }
 </script>
 

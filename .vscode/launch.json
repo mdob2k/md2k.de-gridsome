@@ -8,9 +8,13 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceRoot}\\node_modules\\gridsome\\bin\\gridsome.js",
-      "args": ["develop"]
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceRoot}/node_modules/gridsome/bin/gridsome.js",
+      "args": [
+        "develop"
+      ]
     }
   ]
 }

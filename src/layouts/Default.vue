@@ -65,12 +65,12 @@ export default {
   props: {
     showLogo: {
       type: Boolean,
-      default: true
-    }
+      default: true,
+    },
   },
   data: () => ({
-    showNav: false
-  })
+    showNav: false,
+  }),
 }
 </script>
 
