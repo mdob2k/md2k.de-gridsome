@@ -7,16 +7,16 @@
     "explore": "gridsome explore"
   },
   "dependencies": {
-    "@gridsome/plugin-google-analytics": "^0.1.0",
+    "@gridsome/plugin-google-analytics": "^0.1.1",
     "@gridsome/source-filesystem": "^0.6.2",
-    "@gridsome/transformer-remark": "^0.5.0",
-    "gridsome": "^0.7.14",
+    "@gridsome/transformer-remark": "^0.6.0",
+    "gridsome": "^0.7.15",
     "vue-matomo": "^3.13.0-4"
   },
   "devDependencies": {
     "bulma": "^0.8.2",
-    "eslint": "^7.0.0",
-    "eslint-plugin-gridsome": "^1.4.11",
+    "eslint": "^7.1.0",
+    "eslint-plugin-gridsome": "^1.4.12",
     "node-sass": "^4.14.1",
     "sass-loader": "^8.0.2",
     "vue-eslint-parser": "^7.1.0"
